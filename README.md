@@ -56,8 +56,8 @@ I work with robotics and enjoy creating projects that make a difference. I'm pre
 ## 🤙 Get In Touch 🤙
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalgupta@352gmail.com)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HerXayah)
+  [![Email]([mailto:sujalgupta@352gmail.com])
+  [![GitHub]([https://github.com/Sujal861/Sujal861.git])
  
   
 </div>
